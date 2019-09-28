@@ -3,4 +3,4 @@
 2- Download a pre-trained word embedding and add into the same folder. 
 3- Specify the embedding file name in baseline file.
 4- Run the following commant to run the model.
-python 
+python baseline_with_eval_With_Nltk.py 
